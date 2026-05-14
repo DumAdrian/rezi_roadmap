@@ -1,0 +1,2147 @@
+{
+  "books": {
+    "book_1": {
+      "book_id": 1,
+      "chapters": [
+        {
+          "type": "chapter",
+          "cap_number": 8,
+          "title": "SEPSISUL ȘI TRATAMENTUL INFECȚIILOR BACTERIENE  - p.151-168",
+          "book_page_span": [
+            151,
+            168
+          ],
+          "book_page_count": 18,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 9,
+          "title": "ECHILIBRUL HIDRO-ELECTROLITIC ȘI ACIDO-BAZIC",
+          "book_page_span": [
+            172,
+            202
+          ],
+          "book_page_count": 31,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Apa și electroliții",
+              "book_page_span": [
+                172,
+                190
+              ],
+              "book_page_count": 19,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Dezechilibrele acido-bazice",
+              "book_page_span": [
+                195,
+                202
+              ],
+              "book_page_count": 8,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 10,
+          "title": "TERAPIE INTENSIVĂ",
+          "book_page_span": [
+            224,
+            233
+          ],
+          "book_page_count": 10,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Insuficiența respiratorie",
+              "book_page_span": [
+                224,
+                232
+              ],
+              "book_page_count": 9,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Sindromul de detresă respiratorie acută",
+              "book_page_span": [
+                232,
+                233
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 16,
+          "title": "HEMATOLOGIE",
+          "book_page_span": [
+            327,
+            355
+          ],
+          "book_page_count": 29,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Anemia. Anemia microcitară. Anemia macrocitară",
+              "book_page_span": [
+                327,
+                336
+              ],
+              "book_page_count": 10,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Anemia hemolitică dobândită",
+              "book_page_span": [
+                351,
+                355
+              ],
+              "book_page_count": 5,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 18,
+          "title": "REUMATOLOGIE",
+          "book_page_span": [
+            437,
+            459
+          ],
+          "book_page_count": 23,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Artrita reumatoidă",
+              "book_page_span": [
+                437,
+                447
+              ],
+              "book_page_count": 11,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Spondilartrita",
+              "book_page_span": [
+                447,
+                454
+              ],
+              "book_page_count": 8,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Lupusul eritematos sistemic",
+              "book_page_span": [
+                457,
+                459
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 21,
+          "title": "ENDOCRINOLOGIE",
+          "book_page_span": [
+            611,
+            622
+          ],
+          "book_page_count": 12,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Hipotiroidismul. Hipertiroidismul",
+              "book_page_span": [
+                611,
+                619
+              ],
+              "book_page_count": 9,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Carcinomul tiroidian",
+              "book_page_span": [
+                621,
+                622
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 23,
+          "title": "DIABETUL ZAHARAT - p.699-736 (până la \"Implicațiile psihosociale ale diabetului zaharat\")",
+          "book_page_span": [
+            699,
+            736
+          ],
+          "book_page_count": 38,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 26,
+          "title": "NEUROLOGIE",
+          "book_page_span": [
+            832,
+            872
+          ],
+          "book_page_count": 41,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Coma și alte tulburări ale conștienței",
+              "book_page_span": [
+                832,
+                836
+              ],
+              "book_page_count": 5,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Accidentul vascular cerebral",
+              "book_page_span": [
+                836,
+                845
+              ],
+              "book_page_count": 10,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Hemoragia intracraniană",
+              "book_page_span": [
+                845,
+                848
+              ],
+              "book_page_count": 4,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "4",
+              "bullet": false,
+              "title": "Infecțiile sistemului nervos -  Meningita. Encefalita",
+              "book_page_span": [
+                869,
+                872
+              ],
+              "book_page_count": 4,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 28,
+          "title": "PNEUMOLOGIE",
+          "book_page_span": [
+            949,
+            982
+          ],
+          "book_page_count": 34,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Astmul",
+              "book_page_span": [
+                949,
+                955
+              ],
+              "book_page_count": 7,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Bronhopneumopatia obstructivă cronică",
+              "book_page_span": [
+                955,
+                961
+              ],
+              "book_page_count": 7,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Pneumonia",
+              "book_page_span": [
+                963,
+                967
+              ],
+              "book_page_count": 5,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "4",
+              "bullet": false,
+              "title": "Tuberculoza",
+              "book_page_span": [
+                968,
+                972
+              ],
+              "book_page_count": 5,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "5",
+              "bullet": false,
+              "title": "Neoplaziile tractului respirator - Tumorile maligne",
+              "book_page_span": [
+                975,
+                982
+              ],
+              "book_page_count": 8,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 29,
+          "title": "BOALA VENOASĂ TROMBOEMBOLICĂ - p.1001-1017",
+          "book_page_span": [
+            1001,
+            1017
+          ],
+          "book_page_count": 17,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            1,
+            1
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 30,
+          "title": "CARDIOLOGIE",
+          "book_page_span": [
+            1045,
+            1128
+          ],
+          "book_page_count": 84,
+          "pdf_pages": [
+            1
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Resuscitarea cardiacă",
+              "book_page_span": [
+                1045,
+                1048
+              ],
+              "book_page_count": 4,
+              "pdf_pages": [
+                1
+              ],
+              "tematica_pdf_page_span": [
+                1,
+                1
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Aritmiile cardiace",
+              "book_page_span": [
+                1051,
+                1069
+              ],
+              "book_page_count": 19,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Insuficiența cardiacă",
+              "book_page_span": [
+                1069,
+                1079
+              ],
+              "book_page_count": 11,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "4",
+              "bullet": false,
+              "title": "Boala coronariană - Angina. Sindroamele coronariene acute",
+              "book_page_span": [
+                1079,
+                1091
+              ],
+              "book_page_count": 13,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "5",
+              "bullet": false,
+              "title": "Valvulopatii",
+              "book_page_span": [
+                1091,
+                1103
+              ],
+              "book_page_count": 13,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "6",
+              "bullet": false,
+              "title": "Endocardita infecțioasă",
+              "book_page_span": [
+                1103,
+                1107
+              ],
+              "book_page_count": 5,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "7",
+              "bullet": false,
+              "title": "Bolile miocardului - Miocardita. Cardiomiopatiile",
+              "book_page_span": [
+                1118,
+                1124
+              ],
+              "book_page_count": 7,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "8",
+              "bullet": false,
+              "title": "Bolile pericardului",
+              "book_page_span": [
+                1125,
+                1128
+              ],
+              "book_page_count": 4,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            1,
+            2
+          ],
+          "tematica_pdf_page_count": 2
+        },
+        {
+          "type": "chapter",
+          "cap_number": 31,
+          "title": "HIPERTENSIUNEA ARTERIALĂ - p.1133-1145",
+          "book_page_span": [
+            1133,
+            1145
+          ],
+          "book_page_count": 13,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 32,
+          "title": "GASTROENTEROLOGIE",
+          "book_page_span": [
+            1162,
+            1208
+          ],
+          "book_page_count": 47,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Boala de reflux gastroesofagian",
+              "book_page_span": [
+                1162,
+                1166
+              ],
+              "book_page_count": 5,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Infecția cu Helicobacter Pylori - Boala ulceroasă peptică. Alte afecțiuni asociate infecției cu H. pylori. Antiinflamatoarele nesteroidiene, Helicobacter pylori și boala ulceroasă",
+              "book_page_span": [
+                1172,
+                1176
+              ],
+              "book_page_count": 5,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Bolile inflamatorii intestinale",
+              "book_page_span": [
+                1198,
+                1208
+              ],
+              "book_page_count": 11,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 34,
+          "title": "BOLILE HEPATICE",
+          "book_page_span": [
+            1275,
+            1303
+          ],
+          "book_page_count": 29,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Hepatita - Hepatita virală",
+              "book_page_span": [
+                1275,
+                1284
+              ],
+              "book_page_count": 10,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Ciroza hepatică",
+              "book_page_span": [
+                1289,
+                1303
+              ],
+              "book_page_count": 15,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 36,
+          "title": "TULBURĂRI RENALE ȘI ALE TRACTULUI URINAR",
+          "book_page_span": [
+            1351,
+            1405
+          ],
+          "book_page_count": 55,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Glomerulul și afectarea glomerulară",
+              "book_page_span": [
+                1351,
+                1368
+              ],
+              "book_page_count": 18,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Nefritele tubulointerstițiale (NTI)",
+              "book_page_span": [
+                1385,
+                1387
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Boala cronică de rinichi",
+              "book_page_span": [
+                1392,
+                1405
+              ],
+              "book_page_count": 14,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 37,
+          "title": "INFECȚII TRANSMISIBILE PE CALE SEXUALĂ ȘI INFECŢIA CU VIRUSUL IMUNODEFICIENȚEI UMANE",
+          "book_page_span": [
+            1425,
+            1450
+          ],
+          "book_page_count": 26,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": null,
+              "bullet": true,
+              "title": "Virusul imunodeficienței umane și sindromul imunodeficienței dobândite",
+              "book_page_span": [
+                1425,
+                1450
+              ],
+              "book_page_count": 26,
+              "pdf_pages": [
+                2
+              ],
+              "tematica_pdf_page_span": [
+                2,
+                2
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        }
+      ]
+    },
+    "book_2": {
+      "book_id": 2,
+      "chapters": [
+        {
+          "type": "chapter",
+          "cap_number": 1,
+          "title": "EVALUAREA ȘI MANAGEMENTUL PERIOPERATOR AL PACIENTULUI CHIRURGICAL - p.1-12",
+          "book_page_span": [
+            1,
+            12
+          ],
+          "book_page_count": 12,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 4,
+          "title": "SÂNGERĂRILE CHIRURGICALE: TULBURĂRI ALE HEMOSTAZEI, STĂRI DE HIPERCOAGULABILITATE ȘI TERAPIA CU PRODUSE SANGUINE LA PACIENTUL CHIRURGICAL - p.39-45",
+          "book_page_span": [
+            39,
+            45
+          ],
+          "book_page_count": 7,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 8,
+          "title": "INFECȚIILE CHIRURGICALE - p.75-84",
+          "book_page_span": [
+            75,
+            84
+          ],
+          "book_page_count": 10,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 9,
+          "title": "TRAUMATOLOGIE - p.87-106",
+          "book_page_span": [
+            87,
+            106
+          ],
+          "book_page_count": 20,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 10,
+          "title": "ARSURILE - p.108-123",
+          "book_page_span": [
+            108,
+            123
+          ],
+          "book_page_count": 16,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 11,
+          "title": "HERNIILE PERETELUI ABDOMINAL - p.125-138",
+          "book_page_span": [
+            125,
+            138
+          ],
+          "book_page_count": 14,
+          "pdf_pages": [
+            2
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            2,
+            2
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 12,
+          "title": "ESOFAGUL",
+          "book_page_span": [
+            140,
+            164
+          ],
+          "book_page_count": 25,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Anatomia esofagului",
+              "book_page_span": [
+                140,
+                142
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Carcinomul esofagian",
+              "book_page_span": [
+                151,
+                156
+              ],
+              "book_page_count": 6,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Perforația esofagiană",
+              "book_page_span": [
+                156,
+                157
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "4",
+              "bullet": false,
+              "title": "Herniile hiatale",
+              "book_page_span": [
+                157,
+                158
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "5",
+              "bullet": false,
+              "title": "Tulburări ale motilității esofagiene",
+              "book_page_span": [
+                158,
+                161
+              ],
+              "book_page_count": 4,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "6",
+              "bullet": false,
+              "title": "Leziuni esofagiene benigne",
+              "book_page_span": [
+                161,
+                162
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "7",
+              "bullet": false,
+              "title": "Ingestia de corpi străini",
+              "book_page_span": [
+                162,
+                162
+              ],
+              "book_page_count": 1,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "8",
+              "bullet": false,
+              "title": "Ingestia substanțelor caustice",
+              "book_page_span": [
+                162,
+                164
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 13,
+          "title": "STOMACUL ȘI DUODENUL",
+          "book_page_span": [
+            167,
+            191
+          ],
+          "book_page_count": 25,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Anatomie",
+              "book_page_span": [
+                167,
+                168
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Afecțiuni gastrice maligne",
+              "book_page_span": [
+                172,
+                174
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Afecțiuni duodenale maligne",
+              "book_page_span": [
+                179,
+                180
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "4",
+              "bullet": false,
+              "title": "Complicații postgastrectomie",
+              "book_page_span": [
+                180,
+                182
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "5",
+              "bullet": false,
+              "title": "Tratamentul chirurgical al obezității",
+              "book_page_span": [
+                182,
+                191
+              ],
+              "book_page_count": 10,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 14,
+          "title": "INTESTINUL SUBȚIRE ȘI APENDICELE",
+          "book_page_span": [
+            193,
+            214
+          ],
+          "book_page_count": 22,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Bolile intestinului subțire – Ocluzia intestinului subțire",
+              "book_page_span": [
+                193,
+                199
+              ],
+              "book_page_count": 7,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Bolile intestinului subțire – Ischemia mezenterică acută",
+              "book_page_span": [
+                204,
+                206
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Bolile intestinului subțire – Tumorile intestinului subțire",
+              "book_page_span": [
+                206,
+                209
+              ],
+              "book_page_count": 4,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "4",
+              "bullet": false,
+              "title": "Bolile intestinului subțire – Anomalii congenitale",
+              "book_page_span": [
+                209,
+                211
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "5",
+              "bullet": false,
+              "title": "Bolile apendicelui",
+              "book_page_span": [
+                211,
+                214
+              ],
+              "book_page_count": 4,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 15,
+          "title": "COLON, RECT ȘI ANUS",
+          "book_page_span": [
+            216,
+            240
+          ],
+          "book_page_count": 25,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Anatomie",
+              "book_page_span": [
+                216,
+                219
+              ],
+              "book_page_count": 4,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Afecțiuni benigne colonice",
+              "book_page_span": [
+                222,
+                225
+              ],
+              "book_page_count": 4,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Ocluzia intestinului gros",
+              "book_page_span": [
+                228,
+                229
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "4",
+              "bullet": false,
+              "title": "Volvulus de colon",
+              "book_page_span": [
+                229,
+                230
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "5",
+              "bullet": false,
+              "title": "Pseudo-ocluzia acută a colonului",
+              "book_page_span": [
+                230,
+                230
+              ],
+              "book_page_count": 1,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "6",
+              "bullet": false,
+              "title": "Polipii și cancerul colo-rectal",
+              "book_page_span": [
+                230,
+                235
+              ],
+              "book_page_count": 6,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "7",
+              "bullet": false,
+              "title": "Canalul anal și rectul",
+              "book_page_span": [
+                235,
+                239
+              ],
+              "book_page_count": 5,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "8",
+              "bullet": false,
+              "title": "Infecțiile cu transmitere sexuală",
+              "book_page_span": [
+                239,
+                240
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 16,
+          "title": "CĂILE BILIARE - p.242-255",
+          "book_page_span": [
+            242,
+            255
+          ],
+          "book_page_count": 14,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 17,
+          "title": "PANCREASUL - p.257-275",
+          "book_page_span": [
+            257,
+            275
+          ],
+          "book_page_count": 19,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 20,
+          "title": "FICATUL ȘI SPLINA",
+          "book_page_span": [
+            317,
+            342
+          ],
+          "book_page_count": 26,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Anatomia ficatului. Fiziologia ficatului",
+              "book_page_span": [
+                317,
+                317
+              ],
+              "book_page_count": 1,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Leziunile hepatice traumatice",
+              "book_page_span": [
+                317,
+                319
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "3",
+              "bullet": false,
+              "title": "Tumorile hepatice, chisturile și abcesele hepatice",
+              "book_page_span": [
+                319,
+                324
+              ],
+              "book_page_count": 6,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "4",
+              "bullet": false,
+              "title": "Anatomia și fiziologia splinei",
+              "book_page_span": [
+                333,
+                335
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "5",
+              "bullet": false,
+              "title": "Anomaliile splinei – considerații diagnostice generale",
+              "book_page_span": [
+                335,
+                337
+              ],
+              "book_page_count": 3,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "6",
+              "bullet": false,
+              "title": "Afecțiunile chirurgicale ale splinei",
+              "book_page_span": [
+                337,
+                341
+              ],
+              "book_page_count": 5,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "7",
+              "bullet": false,
+              "title": "Consecințe și complicații după splenectomie",
+              "book_page_span": [
+                341,
+                342
+              ],
+              "book_page_count": 2,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 26,
+          "title": "BOLILE SISTEMULUI VASCULAR",
+          "book_page_span": [
+            520,
+            541
+          ],
+          "book_page_count": 22,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [
+            {
+              "type": "subchapter",
+              "number": "1",
+              "bullet": false,
+              "title": "Boala arterială periferică",
+              "book_page_span": [
+                520,
+                527
+              ],
+              "book_page_count": 8,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            },
+            {
+              "type": "subchapter",
+              "number": "2",
+              "bullet": false,
+              "title": "Bolile venelor",
+              "book_page_span": [
+                534,
+                541
+              ],
+              "book_page_count": 8,
+              "pdf_pages": [
+                3
+              ],
+              "tematica_pdf_page_span": [
+                3,
+                3
+              ],
+              "tematica_pdf_page_count": 1
+            }
+          ],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 27,
+          "title": "OTORINOLARINGOLOGIA: BOLILE CAPULUI ȘI GÂTULUI - p.548-583",
+          "book_page_span": [
+            548,
+            583
+          ],
+          "book_page_count": 36,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 28,
+          "title": "CHIRURGIE ORTOPEDICĂ: BOLILE SISTEMULUI MUSCULOSCHELETAL - p.585-633",
+          "book_page_span": [
+            585,
+            633
+          ],
+          "book_page_count": 49,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 29,
+          "title": "UROLOGIE: AFECȚIUNILE APARATULUI URO-GENITAL - p.635-674",
+          "book_page_span": [
+            635,
+            674
+          ],
+          "book_page_count": 40,
+          "pdf_pages": [
+            3
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            3,
+            3
+          ],
+          "tematica_pdf_page_count": 1
+        }
+      ]
+    },
+    "book_3": {
+      "book_id": 3,
+      "chapters": [
+        {
+          "type": "chapter",
+          "cap_number": 9,
+          "title": "DERMATOLOGIE - p.196-209",
+          "book_page_span": [
+            196,
+            209
+          ],
+          "book_page_count": 14,
+          "pdf_pages": [
+            4
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            4,
+            4
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 10,
+          "title": "PEDIATRIE - p.212-243",
+          "book_page_span": [
+            212,
+            243
+          ],
+          "book_page_count": 32,
+          "pdf_pages": [
+            4
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            4,
+            4
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 12,
+          "title": "AFECȚIUNI GINECOLOGICE ȘI  MAMARE- p.273-292",
+          "book_page_span": [
+            273,
+            292
+          ],
+          "book_page_count": 20,
+          "pdf_pages": [
+            4
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            4,
+            4
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 13,
+          "title": "OBSTETRICĂ - p.295-316",
+          "book_page_span": [
+            295,
+            316
+          ],
+          "book_page_count": 22,
+          "pdf_pages": [
+            4
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            4,
+            4
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 14,
+          "title": "TULBURĂRILE PSIHICE - p.319-330",
+          "book_page_span": [
+            319,
+            330
+          ],
+          "book_page_count": 12,
+          "pdf_pages": [
+            4
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            4,
+            4
+          ],
+          "tematica_pdf_page_count": 1
+        },
+        {
+          "type": "chapter",
+          "cap_number": 15,
+          "title": "EPIDEMIOLOGIE ȘI ETICĂ - p.333-338",
+          "book_page_span": [
+            333,
+            338
+          ],
+          "book_page_count": 6,
+          "pdf_pages": [
+            4
+          ],
+          "subchapters": [],
+          "tematica_pdf_page_span": [
+            4,
+            4
+          ],
+          "tematica_pdf_page_count": 1
+        }
+      ]
+    }
+  },
+  "source_line_count": 117
+}

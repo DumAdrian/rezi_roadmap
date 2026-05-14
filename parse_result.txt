@@ -1,0 +1,156 @@
+
+=== book_1 (id=1) ===
+  CAP.8 | SEPSISUL ȘI TRATAMENTUL INFECȚIILOR BACTERIENE  - p.151-168
+    book_pages=[151, 168] count=18 tematica_pdf=[1, 1] tematica_count=1
+  CAP.9 | ECHILIBRUL HIDRO-ELECTROLITIC ȘI ACIDO-BAZIC
+    book_pages=[172, 202] count=31 tematica_pdf=[1, 1] tematica_count=1
+    [1] Apa și electroliții  book_pages=[172, 190] count=19 tematica_pdf=[1, 1] tematica_count=1
+    [2] Dezechilibrele acido-bazice  book_pages=[195, 202] count=8 tematica_pdf=[1, 1] tematica_count=1
+  CAP.10 | TERAPIE INTENSIVĂ
+    book_pages=[224, 233] count=10 tematica_pdf=[1, 1] tematica_count=1
+    [1] Insuficiența respiratorie  book_pages=[224, 232] count=9 tematica_pdf=[1, 1] tematica_count=1
+    [2] Sindromul de detresă respiratorie acută  book_pages=[232, 233] count=2 tematica_pdf=[1, 1] tematica_count=1
+  CAP.16 | HEMATOLOGIE
+    book_pages=[327, 355] count=29 tematica_pdf=[1, 1] tematica_count=1
+    [1] Anemia. Anemia microcitară. Anemia macrocitară  book_pages=[327, 336] count=10 tematica_pdf=[1, 1] tematica_count=1
+    [2] Anemia hemolitică dobândită  book_pages=[351, 355] count=5 tematica_pdf=[1, 1] tematica_count=1
+  CAP.18 | REUMATOLOGIE
+    book_pages=[437, 459] count=23 tematica_pdf=[1, 1] tematica_count=1
+    [1] Artrita reumatoidă  book_pages=[437, 447] count=11 tematica_pdf=[1, 1] tematica_count=1
+    [2] Spondilartrita  book_pages=[447, 454] count=8 tematica_pdf=[1, 1] tematica_count=1
+    [3] Lupusul eritematos sistemic  book_pages=[457, 459] count=3 tematica_pdf=[1, 1] tematica_count=1
+  CAP.21 | ENDOCRINOLOGIE
+    book_pages=[611, 622] count=12 tematica_pdf=[1, 1] tematica_count=1
+    [1] Hipotiroidismul. Hipertiroidismul  book_pages=[611, 619] count=9 tematica_pdf=[1, 1] tematica_count=1
+    [2] Carcinomul tiroidian  book_pages=[621, 622] count=2 tematica_pdf=[1, 1] tematica_count=1
+  CAP.23 | DIABETUL ZAHARAT - p.699-736 (până la "Implicațiile psihosociale ale d...
+    book_pages=[699, 736] count=38 tematica_pdf=[1, 1] tematica_count=1
+  CAP.26 | NEUROLOGIE
+    book_pages=[832, 872] count=41 tematica_pdf=[1, 1] tematica_count=1
+    [1] Coma și alte tulburări ale conștienței  book_pages=[832, 836] count=5 tematica_pdf=[1, 1] tematica_count=1
+    [2] Accidentul vascular cerebral  book_pages=[836, 845] count=10 tematica_pdf=[1, 1] tematica_count=1
+    [3] Hemoragia intracraniană  book_pages=[845, 848] count=4 tematica_pdf=[1, 1] tematica_count=1
+    [4] Infecțiile sistemului nervos -  Meningita. Encefalita  book_pages=[869, 872] count=4 tematica_pdf=[1, 1] tematica_count=1
+  CAP.28 | PNEUMOLOGIE
+    book_pages=[949, 982] count=34 tematica_pdf=[1, 1] tematica_count=1
+    [1] Astmul  book_pages=[949, 955] count=7 tematica_pdf=[1, 1] tematica_count=1
+    [2] Bronhopneumopatia obstructivă cronică  book_pages=[955, 961] count=7 tematica_pdf=[1, 1] tematica_count=1
+    [3] Pneumonia  book_pages=[963, 967] count=5 tematica_pdf=[1, 1] tematica_count=1
+    [4] Tuberculoza  book_pages=[968, 972] count=5 tematica_pdf=[1, 1] tematica_count=1
+    [5] Neoplaziile tractului respirator - Tumorile maligne  book_pages=[975, 982] count=8 tematica_pdf=[1, 1] tematica_count=1
+  CAP.29 | BOALA VENOASĂ TROMBOEMBOLICĂ - p.1001-1017
+    book_pages=[1001, 1017] count=17 tematica_pdf=[1, 1] tematica_count=1
+  CAP.30 | CARDIOLOGIE
+    book_pages=[1045, 1128] count=84 tematica_pdf=[1, 2] tematica_count=2
+    [1] Resuscitarea cardiacă  book_pages=[1045, 1048] count=4 tematica_pdf=[1, 1] tematica_count=1
+    [2] Aritmiile cardiace  book_pages=[1051, 1069] count=19 tematica_pdf=[2, 2] tematica_count=1
+    [3] Insuficiența cardiacă  book_pages=[1069, 1079] count=11 tematica_pdf=[2, 2] tematica_count=1
+    [4] Boala coronariană - Angina. Sindroamele coronariene acute  book_pages=[1079, 1091] count=13 tematica_pdf=[2, 2] tematica_count=1
+    [5] Valvulopatii  book_pages=[1091, 1103] count=13 tematica_pdf=[2, 2] tematica_count=1
+    [6] Endocardita infecțioasă  book_pages=[1103, 1107] count=5 tematica_pdf=[2, 2] tematica_count=1
+    [7] Bolile miocardului - Miocardita. Cardiomiopatiile  book_pages=[1118, 1124] count=7 tematica_pdf=[2, 2] tematica_count=1
+    [8] Bolile pericardului  book_pages=[1125, 1128] count=4 tematica_pdf=[2, 2] tematica_count=1
+  CAP.31 | HIPERTENSIUNEA ARTERIALĂ - p.1133-1145
+    book_pages=[1133, 1145] count=13 tematica_pdf=[2, 2] tematica_count=1
+  CAP.32 | GASTROENTEROLOGIE
+    book_pages=[1162, 1208] count=47 tematica_pdf=[2, 2] tematica_count=1
+    [1] Boala de reflux gastroesofagian  book_pages=[1162, 1166] count=5 tematica_pdf=[2, 2] tematica_count=1
+    [2] Infecția cu Helicobacter Pylori - Boala ulceroasă peptică. Alte a...  book_pages=[1172, 1176] count=5 tematica_pdf=[2, 2] tematica_count=1
+    [3] Bolile inflamatorii intestinale  book_pages=[1198, 1208] count=11 tematica_pdf=[2, 2] tematica_count=1
+  CAP.34 | BOLILE HEPATICE
+    book_pages=[1275, 1303] count=29 tematica_pdf=[2, 2] tematica_count=1
+    [1] Hepatita - Hepatita virală  book_pages=[1275, 1284] count=10 tematica_pdf=[2, 2] tematica_count=1
+    [2] Ciroza hepatică  book_pages=[1289, 1303] count=15 tematica_pdf=[2, 2] tematica_count=1
+  CAP.36 | TULBURĂRI RENALE ȘI ALE TRACTULUI URINAR
+    book_pages=[1351, 1405] count=55 tematica_pdf=[2, 2] tematica_count=1
+    [1] Glomerulul și afectarea glomerulară  book_pages=[1351, 1368] count=18 tematica_pdf=[2, 2] tematica_count=1
+    [2] Nefritele tubulointerstițiale (NTI)  book_pages=[1385, 1387] count=3 tematica_pdf=[2, 2] tematica_count=1
+    [3] Boala cronică de rinichi  book_pages=[1392, 1405] count=14 tematica_pdf=[2, 2] tematica_count=1
+  CAP.37 | INFECȚII TRANSMISIBILE PE CALE SEXUALĂ ȘI INFECŢIA CU VIRUSUL IMUNODEF...
+    book_pages=[1425, 1450] count=26 tematica_pdf=[2, 2] tematica_count=1
+    [o] Virusul imunodeficienței umane și sindromul imunodeficienței dobâ...  book_pages=[1425, 1450] count=26 tematica_pdf=[2, 2] tematica_count=1
+
+=== book_2 (id=2) ===
+  CAP.1 | EVALUAREA ȘI MANAGEMENTUL PERIOPERATOR AL PACIENTULUI CHIRURGICAL - p....
+    book_pages=[1, 12] count=12 tematica_pdf=[2, 2] tematica_count=1
+  CAP.4 | SÂNGERĂRILE CHIRURGICALE: TULBURĂRI ALE HEMOSTAZEI, STĂRI DE HIPERCOAG...
+    book_pages=[39, 45] count=7 tematica_pdf=[2, 2] tematica_count=1
+  CAP.8 | INFECȚIILE CHIRURGICALE - p.75-84
+    book_pages=[75, 84] count=10 tematica_pdf=[2, 2] tematica_count=1
+  CAP.9 | TRAUMATOLOGIE - p.87-106
+    book_pages=[87, 106] count=20 tematica_pdf=[2, 2] tematica_count=1
+  CAP.10 | ARSURILE - p.108-123
+    book_pages=[108, 123] count=16 tematica_pdf=[2, 2] tematica_count=1
+  CAP.11 | HERNIILE PERETELUI ABDOMINAL - p.125-138
+    book_pages=[125, 138] count=14 tematica_pdf=[2, 2] tematica_count=1
+  CAP.12 | ESOFAGUL
+    book_pages=[140, 164] count=25 tematica_pdf=[3, 3] tematica_count=1
+    [1] Anatomia esofagului  book_pages=[140, 142] count=3 tematica_pdf=[3, 3] tematica_count=1
+    [2] Carcinomul esofagian  book_pages=[151, 156] count=6 tematica_pdf=[3, 3] tematica_count=1
+    [3] Perforația esofagiană  book_pages=[156, 157] count=2 tematica_pdf=[3, 3] tematica_count=1
+    [4] Herniile hiatale  book_pages=[157, 158] count=2 tematica_pdf=[3, 3] tematica_count=1
+    [5] Tulburări ale motilității esofagiene  book_pages=[158, 161] count=4 tematica_pdf=[3, 3] tematica_count=1
+    [6] Leziuni esofagiene benigne  book_pages=[161, 162] count=2 tematica_pdf=[3, 3] tematica_count=1
+    [7] Ingestia de corpi străini  book_pages=[162, 162] count=1 tematica_pdf=[3, 3] tematica_count=1
+    [8] Ingestia substanțelor caustice  book_pages=[162, 164] count=3 tematica_pdf=[3, 3] tematica_count=1
+  CAP.13 | STOMACUL ȘI DUODENUL
+    book_pages=[167, 191] count=25 tematica_pdf=[3, 3] tematica_count=1
+    [1] Anatomie  book_pages=[167, 168] count=2 tematica_pdf=[3, 3] tematica_count=1
+    [2] Afecțiuni gastrice maligne  book_pages=[172, 174] count=3 tematica_pdf=[3, 3] tematica_count=1
+    [3] Afecțiuni duodenale maligne  book_pages=[179, 180] count=2 tematica_pdf=[3, 3] tematica_count=1
+    [4] Complicații postgastrectomie  book_pages=[180, 182] count=3 tematica_pdf=[3, 3] tematica_count=1
+    [5] Tratamentul chirurgical al obezității  book_pages=[182, 191] count=10 tematica_pdf=[3, 3] tematica_count=1
+  CAP.14 | INTESTINUL SUBȚIRE ȘI APENDICELE
+    book_pages=[193, 214] count=22 tematica_pdf=[3, 3] tematica_count=1
+    [1] Bolile intestinului subțire – Ocluzia intestinului subțire  book_pages=[193, 199] count=7 tematica_pdf=[3, 3] tematica_count=1
+    [2] Bolile intestinului subțire – Ischemia mezenterică acută  book_pages=[204, 206] count=3 tematica_pdf=[3, 3] tematica_count=1
+    [3] Bolile intestinului subțire – Tumorile intestinului subțire  book_pages=[206, 209] count=4 tematica_pdf=[3, 3] tematica_count=1
+    [4] Bolile intestinului subțire – Anomalii congenitale  book_pages=[209, 211] count=3 tematica_pdf=[3, 3] tematica_count=1
+    [5] Bolile apendicelui  book_pages=[211, 214] count=4 tematica_pdf=[3, 3] tematica_count=1
+  CAP.15 | COLON, RECT ȘI ANUS
+    book_pages=[216, 240] count=25 tematica_pdf=[3, 3] tematica_count=1
+    [1] Anatomie  book_pages=[216, 219] count=4 tematica_pdf=[3, 3] tematica_count=1
+    [2] Afecțiuni benigne colonice  book_pages=[222, 225] count=4 tematica_pdf=[3, 3] tematica_count=1
+    [3] Ocluzia intestinului gros  book_pages=[228, 229] count=2 tematica_pdf=[3, 3] tematica_count=1
+    [4] Volvulus de colon  book_pages=[229, 230] count=2 tematica_pdf=[3, 3] tematica_count=1
+    [5] Pseudo-ocluzia acută a colonului  book_pages=[230, 230] count=1 tematica_pdf=[3, 3] tematica_count=1
+    [6] Polipii și cancerul colo-rectal  book_pages=[230, 235] count=6 tematica_pdf=[3, 3] tematica_count=1
+    [7] Canalul anal și rectul  book_pages=[235, 239] count=5 tematica_pdf=[3, 3] tematica_count=1
+    [8] Infecțiile cu transmitere sexuală  book_pages=[239, 240] count=2 tematica_pdf=[3, 3] tematica_count=1
+  CAP.16 | CĂILE BILIARE - p.242-255
+    book_pages=[242, 255] count=14 tematica_pdf=[3, 3] tematica_count=1
+  CAP.17 | PANCREASUL - p.257-275
+    book_pages=[257, 275] count=19 tematica_pdf=[3, 3] tematica_count=1
+  CAP.20 | FICATUL ȘI SPLINA
+    book_pages=[317, 342] count=26 tematica_pdf=[3, 3] tematica_count=1
+    [1] Anatomia ficatului. Fiziologia ficatului  book_pages=[317, 317] count=1 tematica_pdf=[3, 3] tematica_count=1
+    [2] Leziunile hepatice traumatice  book_pages=[317, 319] count=3 tematica_pdf=[3, 3] tematica_count=1
+    [3] Tumorile hepatice, chisturile și abcesele hepatice  book_pages=[319, 324] count=6 tematica_pdf=[3, 3] tematica_count=1
+    [4] Anatomia și fiziologia splinei  book_pages=[333, 335] count=3 tematica_pdf=[3, 3] tematica_count=1
+    [5] Anomaliile splinei – considerații diagnostice generale  book_pages=[335, 337] count=3 tematica_pdf=[3, 3] tematica_count=1
+    [6] Afecțiunile chirurgicale ale splinei  book_pages=[337, 341] count=5 tematica_pdf=[3, 3] tematica_count=1
+    [7] Consecințe și complicații după splenectomie  book_pages=[341, 342] count=2 tematica_pdf=[3, 3] tematica_count=1
+  CAP.26 | BOLILE SISTEMULUI VASCULAR
+    book_pages=[520, 541] count=22 tematica_pdf=[3, 3] tematica_count=1
+    [1] Boala arterială periferică  book_pages=[520, 527] count=8 tematica_pdf=[3, 3] tematica_count=1
+    [2] Bolile venelor  book_pages=[534, 541] count=8 tematica_pdf=[3, 3] tematica_count=1
+  CAP.27 | OTORINOLARINGOLOGIA: BOLILE CAPULUI ȘI GÂTULUI - p.548-583
+    book_pages=[548, 583] count=36 tematica_pdf=[3, 3] tematica_count=1
+  CAP.28 | CHIRURGIE ORTOPEDICĂ: BOLILE SISTEMULUI MUSCULOSCHELETAL - p.585-633
+    book_pages=[585, 633] count=49 tematica_pdf=[3, 3] tematica_count=1
+  CAP.29 | UROLOGIE: AFECȚIUNILE APARATULUI URO-GENITAL - p.635-674
+    book_pages=[635, 674] count=40 tematica_pdf=[3, 3] tematica_count=1
+
+=== book_3 (id=3) ===
+  CAP.9 | DERMATOLOGIE - p.196-209
+    book_pages=[196, 209] count=14 tematica_pdf=[4, 4] tematica_count=1
+  CAP.10 | PEDIATRIE - p.212-243
+    book_pages=[212, 243] count=32 tematica_pdf=[4, 4] tematica_count=1
+  CAP.12 | AFECȚIUNI GINECOLOGICE ȘI  MAMARE- p.273-292
+    book_pages=[273, 292] count=20 tematica_pdf=[4, 4] tematica_count=1
+  CAP.13 | OBSTETRICĂ - p.295-316
+    book_pages=[295, 316] count=22 tematica_pdf=[4, 4] tematica_count=1
+  CAP.14 | TULBURĂRILE PSIHICE - p.319-330
+    book_pages=[319, 330] count=12 tematica_pdf=[4, 4] tematica_count=1
+  CAP.15 | EPIDEMIOLOGIE ȘI ETICĂ - p.333-338
+    book_pages=[333, 338] count=6 tematica_pdf=[4, 4] tematica_count=1

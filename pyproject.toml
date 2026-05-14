@@ -1,0 +1,16 @@
+[project]
+name = "rezi-roadmap"
+version = "0.1.0"
+description = "Rezi Roadmap Web App"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "sqlalchemy",
+    "psycopg2-binary",
+    "pydantic",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
